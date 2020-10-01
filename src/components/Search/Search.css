@@ -1,0 +1,35 @@
+input[type='text'] {
+  width: 200px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 20px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+button.btn {
+  width: 100px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 12px 0px 12px 0px;
+}
+
+div.explorer {
+  text-align: 'center';
+  padding-top: '30vh';
+}
+
+h2 {
+  padding-bottom: 20px;
+}
+
+div.names-container {
+  padding-top: 20px;
+}
